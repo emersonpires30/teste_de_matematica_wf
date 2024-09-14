@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\bin\Debug\net8.0-windows\teste_matematica_wf.exe
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\bin\Debug\net8.0-windows\teste_matematica_wf.deps.json
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\bin\Debug\net8.0-windows\teste_matematica_wf.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\bin\Debug\net8.0-windows\teste_matematica_wf.dll
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\bin\Debug\net8.0-windows\teste_matematica_wf.pdb
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.Form1.resources
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.dll
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\refint\teste_matematica_wf.dll
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.pdb
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\teste_matematica_wf.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Curso\teste_matematica_wf\teste_matematica_wf\obj\Debug\net8.0-windows\ref\teste_matematica_wf.dll
